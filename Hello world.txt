@@ -3,4 +3,4 @@ print("hello hello;")
 print ("Hello;")
 print("Hello my dear friend;")
 print("Glad to se you;") 
-лишн€€ строчка
+а вот это строка не лишн€€
